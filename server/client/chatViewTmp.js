@@ -1,0 +1,27 @@
+var chatViewTmp = [
+//'    <div class="container">',
+'        <div class="row">',
+'            <div class="col-md-5">',
+'                <div class="panel panel-primary">',
+'                    <div class="panel-heading">',
+'                        <span class="glyphicon glyphicon-comment"></span> Chat',
+'                        <span id="dropDownList" class="glyphicon glyphicon-menu-hamburger"></span>',
+'                        </button>',
+'                    </div>',
+'                    <div class="panel-body">',
+'                        <ul class="chat">',
+'                        </ul>',
+'                    </div>',
+'                    <div class="panel-footer">',
+'                        <div class="input-group">',
+'                            <input id="btn-input" type="text" class="form-control input-sm" placeholder="Type your message here..." />',
+'                            <span class="input-group-btn">',
+'                                <button class="btn btn-warning btn-sm" id="btn-chat">Send</button>',
+'                            </span>',
+'                        </div>',
+'                    </div>',
+'                </div>',
+'            </div>',
+'        </div>'
+//'    </div> '
+].join('');
